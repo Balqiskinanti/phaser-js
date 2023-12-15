@@ -1,2 +1,3 @@
-Phaser is a 2D game framework used for making HTML5 games for desktop and mobile.
+# phaser js
+
 access game here: msbalqisphaserproject.netlify.app
